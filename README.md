@@ -4,6 +4,6 @@ Dimensions may not be accurate for single part print, tested only as sliced part
 
 Files from diffrent CAD programs (solvespace, freecad), and time.
 
-Some are simplified.
+Some are simplified and not tested.
 
 
